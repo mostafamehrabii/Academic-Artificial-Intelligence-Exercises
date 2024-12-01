@@ -15,9 +15,7 @@ Ensure you have the following Python packages installed:
 - `sklearn`: For supporting utilities.
 
 Install PySpark using the following command:
-```bash
-pip install pyspark
-```
+
 
 ---
 
