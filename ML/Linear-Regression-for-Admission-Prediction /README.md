@@ -47,12 +47,14 @@ pip install numpy pandas matplotlib
 
 ### How to Run
 
-1. Place the dataset (`Admission_Predict.csv`) and the script in the same directory.
-2. Update the `file_path` variable in the script to point to your dataset location.
-3. Run the script using:
-   ```bash
-   python linear_regression_admission_predict.py
-   ```
+اگر فایل شما به صورت **Jupyter Notebook** (`.ipynb`) است، توضیحات در فایل `README.md` باید به این شکل تغییر داده شود:
+
+---
+
+1. Place the dataset (`Admission_Predict.csv`) in the same directory as the Jupyter Notebook file (`linear_regression_admission_predict.ipynb`).
+2. Update the `file_path` variable in the notebook to point to your dataset location.
+3. Open the notebook in Jupyter Notebook or JupyterLab and run all the cells sequentially.
+
 
 ### Dataset
 
